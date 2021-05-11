@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>消息</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/xx.css">
+    <script src="http://cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.glide.min.js"></script>
+    <script src="/js/index.js"></script>
+    <script src="/js/trem.js"></script>
+</head>
+<body>
+<div class="main">
+    <div class="top">
+        <div class="er"><img src="img/fh.png"/></div>
+        <div class="w">消息</div>
+    </div>
+    <div class="x">
+        <div class="tx">
+            <img src="img/tou.png"/>
+        </div>
+        <div class="name">sumny</div>
+        <div class="time">2016-09-23</div>
+        <div class="hda">您的问题已经解决</div>
+    </div>
+    <div class="x">
+        <div class="tx">
+            <img src="img/tou1.png"/>
+        </div>
+        <div class="name">物流</div>
+        <div class="time">2016-09-23</div>
+        <div class="hda">您购买的威视达康摄像头已发货</div>
+    </div>
+</div>
+</body>
+<script type="text/javascript">
+    $(function () {
+        $(".add").click(function () {
+            $(".text_box").val(parseInt($(".text_box").val()) + 1);
+        });
+        $(".min").click(function () {
+            if ($(".text_box").val() > 0) {
+                $(".text_box").val(parseInt($(".text_box").val()) - 1);
+            }
+        });
+    })
+</script>
+</html>

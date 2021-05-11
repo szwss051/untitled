@@ -1,0 +1,154 @@
+.main{
+    max-width: 640px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+.main img{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.bj{
+    width: 100%;
+    height: 6rem;
+    float: left;
+}
+.bjyy{
+    width: 100%;
+    height: 6rem;
+    float: left;
+    margin-top: -6rem;
+    opacity: 0.57;
+    background-color:#3196b7;
+}
+.tx{
+    width:2.2rem;
+    height:2.2rem;
+    float: left;
+    margin-top:-4.5rem;
+    margin-left: 5.7rem;
+    position: relative;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.tx img{
+    border-radius: 50%;
+}
+.txs{
+    width:0.8rem;
+    height:0.8rem;
+    float: right;
+    margin-top:-5.6rem;
+    margin-right: 0.4rem;
+    position: relative;
+}
+.name{
+    width:5.5rem;
+    height:0.9rem;
+    float: left;
+    color: white;
+    overflow: hidden;
+    text-align: center;
+    font-size: 0.55rem;
+    line-height: 0.9rem;
+    margin-top:-2.1rem;
+    margin-left: 4.1rem;
+    position: relative;
+}
+.toux{
+    width:100%;
+    height: 1.6rem;
+    float: left;
+    line-height: 1.6rem;
+    font-size: 0.63rem;
+    text-indent: 0.5rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+.toux span{
+    width: 4rem;
+    float: left;
+}
+.yhm{
+    width:0.3rem;
+    height: 0.6rem;
+    float: right;
+    margin-top: 0.45rem;
+    margin-right: 0.6rem;
+}
+.li{
+    width:25%;
+    height: 3rem;
+    float: left;
+}
+.dfk{
+    width:1.2rem;
+    height: 1rem;
+    margin: 0.5rem auto;
+}
+.dfkz{
+    width:100%;
+    height: 0.8rem;
+    float: left;
+    line-height: 0.8rem;
+    font-size: 0.65rem;
+    text-align: center;
+    /*margin-top: 0.2rem;*/
+}
+.yy{
+    width:100%;
+    height: 0.2rem;
+    float: left;
+    background-color:#efefef;
+}
+.di{
+    width: 14rem;
+    height: 2.4rem;
+    float: left;
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    border-top: 1px solid #e0e0e0;
+}
+.sy{
+    width: 25%;
+    height: 2.4rem;
+    float: left;
+}
+.sys{
+    width: 29%;
+    height: 0.8rem;
+    float: left;
+    margin-top: 0.3rem;
+    margin-left: 35%;
+}
+.syx{
+    width: 100%;
+    height: 1rem;
+    float: left;
+    color: #8b8b8b;
+    line-height: 1rem;
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.3rem;
+}
+.ding{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    right: 0;
+    top: 13rem;
+}
+.zwz{
+    width: 100%;
+    height: 6rem;
+    float: left;
+}
+
+
+
+
+
+
+
+

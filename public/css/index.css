@@ -1,0 +1,234 @@
+.main{
+    max-width: 640px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+.main img{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.mains{
+    width: 100%;
+    height: auto;
+    float: left;
+    /*position: relative;*/
+}
+.top{
+    width: 100%;
+    height:1.5rem;
+    float: left;
+    margin-top: -7.9rem;
+    z-index: 1;
+    position: absolute;
+}
+.er{
+    width: 0.7rem;
+    height: 0.7rem;
+    float: left;
+    margin-left: 0.6rem;
+    margin-top: 0.45rem;
+}
+.sr{
+    width: 10.2rem;
+    height: 1.2rem;
+    float: left;
+    /*opacity:0.5;*/
+    text-indent: 1.3rem;
+    border-radius: 0.3rem;
+    font-size: 0.6rem;
+    line-height: 1rem;
+    margin-left: 0.5rem;
+    margin-top: 0.15rem;
+    background-color: white;
+}
+.kuo{
+    width: 0.6rem;
+    height: 0.65rem;
+    float: left;
+    margin-left: -9.8rem;
+    margin-top: 0.4rem;
+}
+.yu{
+    width: 0.5rem;
+    height: 0.7rem;
+    float: left;
+    margin-left: -1rem;
+    margin-top: 0.4rem;
+}
+.xx{
+    width: 0.7rem;
+    height: 0.7rem;
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 0.45rem;
+}
+.se{
+    width: 100%;
+    height:3rem;
+    float: left;
+}
+.se1{
+    width: 25%;
+    height:3rem;
+    float: left;
+    box-sizing:border-box;
+}
+.tu{
+    width:1.1rem;
+    height: 1.1rem;
+    margin: 0 auto;
+    margin-top: 0.6rem;
+}
+.se span{
+    width: 100%;
+    height:1rem;
+    float: left;
+    line-height: 1rem;
+    text-align: center;
+    font-size: 0.5rem;
+}
+.d1{
+    width: 100%;
+    height: 9rem;
+    float: left;
+}
+.d1s{
+    width: 100%;
+    height: 11rem;
+    float: left;
+}
+.s{
+     width: 50%;
+     height: 7rem;
+     float: left;
+     border-right: 1px solid #e0e0e0;
+     box-sizing:border-box;
+    border-bottom: 1px solid #e0e0e0;
+}
+.ss{
+    width: 50%;
+    height: 7rem;
+    float: left;
+    border-bottom: 1px solid #e0e0e0;
+    box-sizing:border-box;
+}
+.s2{
+    width: 50%;
+    height: 3rem;
+    float: left;
+    margin-left: 25%;
+    margin-top: 1rem;
+}
+.s3{
+    width: 100%;
+    height:2rem;
+    float: left;
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.7rem;
+}
+.s3 span{
+    font-size: 0.6rem;
+}
+.ss3 span{
+    font-size: 0.6rem;
+}
+.s3 p{
+    font-size: 0.5rem;
+    color:#ff6b00;
+}
+
+.ss2{
+    width: 50%;
+    height: 3rem;
+    float: left;
+    margin-left: 25%;
+    margin-top: 1rem;
+
+}
+.ss3{
+    width: 100%;
+    height:2rem;
+    float: left;
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.7rem;
+}
+.ss3 p{
+    color: #ff6b00;
+    font-size: 0.5rem;
+}
+
+
+
+
+
+
+
+.di{
+    width: 14rem;
+    height: 2.4rem;
+    float: left;
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    border-top: 1px solid #e0e0e0;
+}
+.sy{
+     width: 25%;
+     height: 2.4rem;
+     float: left;
+ }
+.sys{
+    width: 30%;
+    height: 0.8rem;
+    float: left;
+    margin-top: 0.3rem;
+    margin-left: 35%;
+}
+.syx{
+    width: 100%;
+    height: 1rem;
+    float: left;
+    color: #8b8b8b;
+    line-height: 1rem;
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.3rem;
+}
+.ding{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    right: 0;
+    top: 13rem;
+    /*background-color: pink;*/
+}
+.fgz{
+    width: 5rem;
+    height: 0.5rem;
+    float: left;
+    border-bottom: 1px solid #d3d3d3;
+}
+.fgzh{
+    width: 4rem;
+    height: 1rem;
+    float: left;
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.6rem;
+}
+.fgy{
+    width: 5rem;
+    height: 0.5rem;
+    float: left;
+    border-bottom: 1px solid #d3d3d3;
+}
+.yy{
+    width: 14rem;
+    height: 1rem;
+    float: left;
+    background-color:#efefef;
+}

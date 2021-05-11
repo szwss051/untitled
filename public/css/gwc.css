@@ -1,0 +1,237 @@
+*{
+    font-family: 黑体;
+}
+.main{
+    max-width: 640px;
+    height: auto;
+    margin: 0 auto;
+}
+.top{
+    width: 100%;
+    height:1.5rem;
+    float: left;
+    background-color:#18baf2;
+}
+.main img{
+    width: 100%;
+    height:100%;
+    float: left;
+}
+.er{
+    width: 0.4rem;
+    height: 0.8rem;
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 0.34rem;
+}
+.w{
+    width: 10rem;
+    height: 1rem;
+    float: left;
+    color: white;
+    text-align: center;
+    line-height: 1rem;
+    margin-left: 1rem;
+    margin-top: 0.25rem;
+    font-size: 0.7rem;
+}
+.xx{
+    width: 1.5rem;
+    height: 0.7rem;
+    float: left;
+    color: white;
+    font-size: 0.63rem;
+    margin-left: 0.3rem;
+    margin-top: 0.4rem;
+}
+.sp{
+    width: 100%;
+    height:4rem;
+    float: left;
+    border-bottom: 1px solid #e0e0e0;
+}
+.gx{
+    width:0.9rem;
+    height:0.9rem;
+    float: left;
+    border-radius: 50%;
+    margin-top: 1.55rem;
+    margin-left: 0.3rem;
+    border: 1px solid #7e7e7e;
+}
+.tu{
+    width:2.8rem;
+    height:2.8rem;
+    float: left;
+    margin-right: 0.3rem;
+    margin-top: 0.6rem;
+    margin-left: 0.3rem;
+}
+.name{
+      width:5rem;
+      height:0.8rem;
+      float: left;
+      font-size: 0.67rem;
+      line-height: 0.8rem;
+      margin-top: 0.8rem;
+      overflow: hidden;
+  }
+.ys{
+    width:5rem;
+    height:0.8rem;
+    float: left;
+    color: #adadad;
+    font-size: 0.7rem;
+    line-height: 0.8rem;
+    margin-top: 0.1rem;
+    overflow: hidden;
+}
+.jq{
+    width:5rem;
+    height:0.8rem;
+    float: left;
+    color:#ff6b00;
+    font-size: 0.64rem;
+    line-height: 0.8rem;
+    margin-top: 0.1rem;
+    overflow: hidden;
+
+}
+.sl{
+    width: 3.6rem;
+    height: 1.2rem;
+    float: right;
+    line-height: 1rem;
+    margin-top: -1rem;
+    margin-right: 0.3rem;
+}
+.min{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    border: 1px solid #d2d2d2;
+    background-color: white;
+}
+.text_box{
+    width: 1.2rem;
+    height:1.12rem;
+    float: left;
+    font-size: 0.6rem;
+    border: 1px solid #d2d2d2;
+    border-right:0;
+    border-left:0;
+    text-align: center;
+}
+.add{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    border: 1px solid #d2d2d2;
+    background-color: white;
+}
+.youlike{
+    width: 100%;
+    height: 1.8rem;
+    float: left;
+    font-size: 0.8rem;
+    line-height: 1.8rem;
+    text-align: center;
+    border-top:4px solid #eeeeee;
+}
+.di{
+    width: 14rem;
+    height: 2rem;
+    float: left;
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    border-top: 1px solid #e0e0e0;
+}
+.sy{
+    width: 25%;
+    height: 2rem;
+    float: left;
+}
+.sy img{
+    width: 100%;
+    height:100%;
+    float: left;
+}
+.sys{
+    width: 28%;
+    height: 0.8rem;
+    float: left;
+    margin-top: 0.3rem;
+    margin-left: 36%;
+}
+.syx{
+    width: 100%;
+    height: 0.8rem;
+    float: left;
+    color: #8b8b8b;
+    line-height: 0.8rem;
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.1rem;
+}
+.js{
+    width: 14rem;
+    height: 2rem;
+    float: left;
+    bottom: 2.01rem;
+    position: fixed;
+    border-top: 1px solid #e0e0e0;
+    background-color: white;
+}
+.gxs{
+    width:1rem;
+    height:1rem;
+    float: left;
+    border-radius: 50%;
+    margin-top: 0.5rem;
+    margin-left: 0.3rem;
+    border: 1px solid #7e7e7e;
+}
+.qx{
+    width:2rem;
+    height:2rem;
+    float: left;
+    color:#676767;
+    text-align: center;
+    line-height: 2rem;
+    font-size: 0.7rem;
+}
+.qxs{
+    width:5rem;
+    height:2rem;
+    float: left;
+    color:#898989;
+    margin-left: 0.3rem;
+    font-size: 0.8rem;
+}
+.qx1{
+    width:5rem;
+    height:1.2rem;
+    float: left;
+    color:#ff6b00;
+    line-height: 1.2rem;
+    font-size: 0.7rem;
+}
+.qx2{
+    width:5rem;
+    height:0.8rem;
+    float: left;
+    color:#ff6b00;
+    line-height: 0.8rem;
+    font-size: 0.62rem;
+}
+.jsy{
+    width:3.5rem;
+    height:2rem;
+    float: right;
+    color: white;
+    text-align: center;
+    font-size: 0.6rem;
+    line-height: 2rem;
+    background-color: #ff6b00;
+}
