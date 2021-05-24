@@ -46,18 +46,18 @@
 }
 .sp{
     width: 100%;
-    height:4rem;
+    height:4.4rem;
     float: left;
-    border-bottom: 1px solid #e0e0e0;
+    border-top: 1px solid #e0e0e0;
 }
 .gx{
-    width:0.9rem;
-    height:0.9rem;
+    width:0.8rem;
+    height:0.8rem;
     float: left;
     border-radius: 50%;
     margin-top: 1.55rem;
     margin-left: 0.3rem;
-    border: 1px solid #7e7e7e;
+    border: 1px solid #9b9b9b;
 }
 .tu{
     width:2.8rem;
@@ -71,28 +71,28 @@
       width:5rem;
       height:0.8rem;
       float: left;
-      font-size: 0.67rem;
+      font-size: 0.64rem;
       line-height: 0.8rem;
       margin-top: 0.8rem;
       overflow: hidden;
   }
 .ys{
     width:5rem;
-    height:0.8rem;
+    height:0.85rem;
     float: left;
     color: #adadad;
-    font-size: 0.7rem;
-    line-height: 0.8rem;
+    font-size: 0.6rem;
+    line-height: 0.85rem;
     margin-top: 0.1rem;
     overflow: hidden;
 }
 .jq{
     width:5rem;
-    height:0.8rem;
+    height:0.85rem;
     float: left;
     color:#ff6b00;
-    font-size: 0.64rem;
-    line-height: 0.8rem;
+    font-size: 0.6rem;
+    line-height: 0.85rem;
     margin-top: 0.1rem;
     overflow: hidden;
 
@@ -102,8 +102,8 @@
     height: 1.2rem;
     float: right;
     line-height: 1rem;
-    margin-top: -1rem;
-    margin-right: 0.3rem;
+    margin-top: 0.25rem;
+    margin-right: 0.4rem;
 }
 .min{
     width: 1.2rem;
@@ -131,61 +131,71 @@
 }
 .youlike{
     width: 100%;
-    height: 1.8rem;
+    height: 1.9rem;
     float: left;
     font-size: 0.8rem;
-    line-height: 1.8rem;
     text-align: center;
-    border-top:4px solid #eeeeee;
+    border-top:1px dashed #bfbfbf;
 }
-.di{
-    width: 14rem;
-    height: 2rem;
+.yltu{
+    width: 1rem;
+    height:1rem;
     float: left;
-    bottom: 0;
-    position: fixed;
-    background-color: white;
-    border-top: 1px solid #e0e0e0;
+    margin-top: 0.45rem;
+    margin-left: 0.5rem;
 }
-.sy{
-    width: 25%;
-    height: 2rem;
+.na{
+    width: 5rem;
+    height: 1.9rem;
     float: left;
-}
-.sy img{
-    width: 100%;
-    height:100%;
-    float: left;
-}
-.sys{
-    width: 28%;
-    height: 0.8rem;
-    float: left;
-    margin-top: 0.3rem;
-    margin-left: 36%;
-}
-.syx{
-    width: 100%;
-    height: 0.8rem;
-    float: left;
-    color: #8b8b8b;
-    line-height: 0.8rem;
-    text-align: center;
+    color:#999999;
     font-size: 0.6rem;
-    margin-top: 0.1rem;
+    line-height: 1.9rem;
 }
+.na span{
+    color:#ff6b00;
+}
+.jjg{
+     width: 2.6rem;
+     height: 0.9rem;
+     float: right;
+     color: white;
+     text-align: center;
+     font-size: 0.52rem;
+     line-height: 0.9rem;
+     margin-right: 0.4rem;
+     margin-top: 0.5rem;
+     background:#8ac349;
+ }
+.jjgs{
+    width: 100%;
+    height: 1.9rem;
+    float: left;
+    color:#bfbfbf;
+    font-size: 0.55rem;
+    line-height: 1.9rem;
+    text-indent: 0.65rem;
+    background-color:#eeeeee;
+}
+.jjgsx{
+    width: 100%;
+    height: 4rem;
+    float: left;
+    background-color:white;
+}
+
 .js{
     width: 14rem;
     height: 2rem;
     float: left;
-    bottom: 2.01rem;
+    bottom: 1.92rem;
     position: fixed;
     border-top: 1px solid #e0e0e0;
     background-color: white;
 }
 .gxs{
-    width:1rem;
-    height:1rem;
+    width:0.8rem;
+    height:0.8rem;
     float: left;
     border-radius: 50%;
     margin-top: 0.5rem;
@@ -206,24 +216,29 @@
     height:2rem;
     float: left;
     color:#898989;
-    margin-left: 0.3rem;
+    margin-left: 2rem;
     font-size: 0.8rem;
 }
 .qx1{
     width:5rem;
-    height:1.2rem;
+    height:1rem;
     float: left;
-    color:#ff6b00;
+    color:#a6a6a6;
+    text-align: right;
     line-height: 1.2rem;
-    font-size: 0.7rem;
+    font-size: 0.58rem;
 }
 .qx2{
     width:5rem;
-    height:0.8rem;
+    height:1rem;
     float: left;
-    color:#ff6b00;
+    color:#a6a6a6;
+    text-align: right;
     line-height: 0.8rem;
-    font-size: 0.62rem;
+    font-size: 0.58rem;
+}
+.qx2 span{
+    color:#ff6b00;
 }
 .jsy{
     width:3.5rem;
@@ -234,4 +249,54 @@
     font-size: 0.6rem;
     line-height: 2rem;
     background-color: #ff6b00;
+}
+.jsys{
+    width:3.5rem;
+    height:2rem;
+    float: right;
+    color: white;
+    text-align: center;
+    font-size: 0.6rem;
+    line-height: 2rem;
+    background-color: red;
+}
+
+
+.di{
+    width: 14rem;
+    height: 1.9rem;
+    float: left;
+    bottom: 0;
+    position: fixed;
+    background-color: white;
+    border-top: 1px solid #e0e0e0;
+}
+.sy{
+    width: 25%;
+    height: 1.8rem;
+    float: left;
+}
+.sys{
+    width: 0.9rem;
+    height:0.9rem;
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: 35%;
+}
+.syx{
+    width: 100%;
+    height: 0.5rem;
+    float: left;
+    color: #8b8b8b;
+    line-height: 0.34rem;
+    text-align: center;
+    font-size: 0.5rem;
+    margin-top: 0.2rem;
+}
+.ding{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    right: 0;
+    top: 13rem;
 }

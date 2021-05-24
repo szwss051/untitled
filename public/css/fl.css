@@ -117,7 +117,7 @@
 }
 .di{
     width: 14rem;
-    height: 2rem;
+    height: 1.9rem;
     float: left;
     bottom: 0;
     position: fixed;
@@ -126,28 +126,30 @@
 }
 .sy{
     width: 25%;
-    height: 2rem;
-    float: left;
-}
-.sy img{
-    width: 100%;
-    height:100%;
+    height: 1.8rem;
     float: left;
 }
 .sys{
-    width: 28%;
-    height: 0.8rem;
+    width: 0.9rem;
+    height:0.9rem;
     float: left;
-    margin-top: 0.3rem;
-    margin-left: 36%;
+    margin-top: 0.2rem;
+    margin-left: 35%;
 }
 .syx{
     width: 100%;
-    height: 0.8rem;
+    height: 0.5rem;
     float: left;
     color: #8b8b8b;
-    line-height: 0.8rem;
+    line-height: 0.34rem;
     text-align: center;
-    font-size: 0.6rem;
-    margin-top: 0.1rem;
+    font-size: 0.5rem;
+    margin-top: 0.2rem;
+}
+.ding{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    right: 0;
+    top: 13rem;
 }

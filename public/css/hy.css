@@ -68,6 +68,7 @@
 .toux span{
     width: 4rem;
     float: left;
+    color:#555555;
 }
 .yhm{
     width:0.3rem;
@@ -84,16 +85,18 @@
 .dfk{
     width:1.2rem;
     height: 1rem;
-    margin: 0.5rem auto;
+    margin: 0 auto;
+    margin-top: 0.5rem;
 }
 .dfkz{
     width:100%;
     height: 0.8rem;
     float: left;
+    color:#6a6969;
     line-height: 0.8rem;
-    font-size: 0.65rem;
+    font-size: 0.55rem;
     text-align: center;
-    /*margin-top: 0.2rem;*/
+    margin-top: 0.3rem;
 }
 .yy{
     width:100%;
@@ -101,9 +104,15 @@
     float: left;
     background-color:#efefef;
 }
+.zwz{
+    width: 100%;
+    height: 6rem;
+    float: left;
+}
+
 .di{
     width: 14rem;
-    height: 2.4rem;
+    height: 1.9rem;
     float: left;
     bottom: 0;
     position: fixed;
@@ -112,25 +121,25 @@
 }
 .sy{
     width: 25%;
-    height: 2.4rem;
+    height: 1.8rem;
     float: left;
 }
 .sys{
-    width: 29%;
-    height: 0.8rem;
+    width: 0.9rem;
+    height:0.9rem;
     float: left;
-    margin-top: 0.3rem;
+    margin-top: 0.2rem;
     margin-left: 35%;
 }
 .syx{
     width: 100%;
-    height: 1rem;
+    height: 0.5rem;
     float: left;
     color: #8b8b8b;
-    line-height: 1rem;
+    line-height: 0.34rem;
     text-align: center;
-    font-size: 0.6rem;
-    margin-top: 0.3rem;
+    font-size: 0.5rem;
+    margin-top: 0.2rem;
 }
 .ding{
     width: 2rem;
@@ -139,11 +148,9 @@
     right: 0;
     top: 13rem;
 }
-.zwz{
-    width: 100%;
-    height: 6rem;
-    float: left;
-}
+
+
+
 
 
 

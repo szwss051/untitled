@@ -10,7 +10,7 @@
     width: 100%;
     height:1.5rem;
     float: left;
-    background-color:#18baf2;
+    background-color:#18BAF2;
 }
 .main img{
     width: 100%;
@@ -44,30 +44,25 @@
     margin-left: 0.3rem;
     margin-top: 0.4rem;
 }
-.bj{
-    width:100%;
-    height: 0.2rem;
-    float: left;
-    background-color:#efefef;
-}
 .toux{
     width:100%;
-    height: 1.5rem;
+    height: 1.65rem;
     float: left;
-    line-height: 1.5rem;
+    line-height: 1.6rem;
     font-size: 0.6rem;
     text-indent: 0.5rem;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 0.01rem solid #e0e0e0;
 }
 .toux span{
     width: 4rem;
     float: left;
+    color:#555555;
 }
 .tx{
-    width:1.2rem;
-    height: 1.2rem;
+    width:0.9rem;
+    height: 0.9rem;
     float: right;
-    margin-top: 0.15rem;
+    margin-top: 0.4rem;
     margin-right: 0.5rem;
 }
 .tx img{
@@ -75,16 +70,19 @@
 }
 .yh{
     width: 5rem;
-    height: 1.5rem;
+    height: 1.65rem;
     float: right;
+    color: #979797;
+    font-size: 0.52rem;
     text-align: right;
     overflow: hidden;
-    margin-right: 0.5rem;
+    line-height: 1.65rem;
+    margin-right: 0.3rem;
 }
 .yhm{
     width:0.3rem;
-    height: 0.6rem;
+    height: 0.5rem;
     float: right;
-    margin-top: 0.45rem;
+    margin-top: 0.57rem;
     margin-right: 0.6rem;
 }
