@@ -7,43 +7,43 @@ router.get('/', function(req, res, next) {
 });
 
 //搜索
-router.get('/ss', function(req, res, next) {
-  res.render('ss');
+router.get('/seek', function(req, res, next) {
+  res.render('seek');
 });
 
 //分类
-router.get('/fl', function(req, res, next) {
-  res.render('fl');
+router.get('/classify', function(req, res, next) {
+  res.render('classify');
 });
 
 //搜索商品页面1
-router.get('/ss1', function(req, res, next) {
-  res.render('ss1');
+router.get('/seek1', function(req, res, next) {
+  res.render('seek1');
 });
 
 //搜索商品页面2
-router.get('/ss2', function(req, res, next) {
-  res.render('ss2');
+router.get('/seek2', function(req, res, next) {
+  res.render('seek2');
 });
 
 
-//购买详情
-router.get('/spxq', function(req, res, next) {
-  res.render('spxq');
+//商品详情
+router.get('/commodityNews', function(req, res, next) {
+  res.render('commodityNews');
 });
 
 //购物车
-router.get('/gwc', function(req, res, next) {
-  res.render('gwc');
+router.get('/shoppingCar', function(req, res, next) {
+  res.render('shoppingCar');
 });
 //购物车编辑
-router.get('/gwcbj', function(req, res, next) {
-  res.render('gwcbj');
+router.get('/shoppingCar2', function(req, res, next) {
+  res.render('shoppingCar2');
 });
 
 //收藏
-router.get('/sc', function(req, res, next) {
-  res.render('sc');
+router.get('/collect', function(req, res, next) {
+  res.render('collect');
 });
 
 
@@ -52,60 +52,48 @@ router.get('/sc', function(req, res, next) {
 
 
 //待付款
-router.get('/dfk', function(req, res, next) {
-  res.render('dfk');
+router.get('/waitingPaying', function(req, res, next) {
+  res.render('waitingPaying');
 });
 
 //待发货
-router.get('/dfh', function(req, res, next) {
-  res.render('dfh');
+router.get('/waitingSendout', function(req, res, next) {
+  res.render('waitingSendout');
 });
 
 //待收货
-router.get('/dsh', function(req, res, next) {
-  res.render('dsh');
+router.get('/waitingReceiving', function(req, res, next) {
+  res.render('waitingReceiving');
 });
 
 //待评价
-router.get('/dpj', function(req, res, next) {
-  res.render('dpj');
+router.get('/waitingEvaluate', function(req, res, next) {
+  res.render('waitingEvaluate');
 });
 
 //商品订单
-router.get('/spdd', function(req, res, next) {
-  res.render('spdd');
+router.get('/commodityIndent', function(req, res, next) {
+  res.render('commodityIndent');
 });
-
-
-
-
-
-
 
 //地址
-router.get('/dz', function(req, res, next) {
-  res.render('dz');
+router.get('/address', function(req, res, next) {
+  res.render('address');
 });
-
-
 
 //个人资料
-router.get('/grzl', function(req, res, next) {
-  res.render('grzl');
+router.get('/privateData', function(req, res, next) {
+  res.render('privateData');
 });
-
-
 
 //会员中心
-router.get('/hy', function(req, res, next) {
-  res.render('hy');
+router.get('/memberCenter', function(req, res, next) {
+  res.render('memberCenter');
 });
 
-
-
 //消息
-router.get('/xx', function(req, res, next) {
-  res.render('xx');
+router.get('/news', function(req, res, next) {
+  res.render('news');
 });
 
 module.exports = router;

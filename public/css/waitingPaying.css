@@ -17,14 +17,14 @@
     height:100%;
     float: left;
 }
-.er{
+.goback{
     width: 0.4rem;
     height: 0.8rem;
     float: left;
     margin-left: 0.5rem;
     margin-top: 0.34rem;
 }
-.w{
+.motif{
     width: 10rem;
     height: 1rem;
     float: left;
@@ -44,7 +44,7 @@
     margin-left: 0.3rem;
     margin-top: 0.4rem;
 }
-.xq{
+.details{
     width:100%;
     height: 6.5rem;
     float: left;
@@ -59,7 +59,7 @@
     font-size: 0.6rem;
     line-height: 2rem;
 }
-.tu{
+.img{
      width:3.2rem;
      height: 2.7rem;
      float: left;
@@ -91,7 +91,7 @@
     font-size:0.5rem;
     margin-left: 0.3rem;
 }
-.jq{
+.money{
     width:9rem;
     height:0.8rem;
     float: left;
@@ -100,11 +100,11 @@
     line-height: 0.8rem;
     margin-left: 0.3rem;
 }
-.jq span{
+.money span{
     color:#979797;
     margin-left: 0.7rem;
 }
-.fk{
+.Paying{
     width:100%;
     height:1.3rem;
     float: left;
