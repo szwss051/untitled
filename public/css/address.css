@@ -17,14 +17,14 @@
     height:100%;
     float: left;
 }
-.er{
+.return{
     width: 0.4rem;
     height: 0.8rem;
     float: left;
     margin-left: 0.5rem;
     margin-top: 0.34rem;
 }
-.w{
+.addr{
     width: 10rem;
     height: 1rem;
     float: left;
@@ -35,7 +35,7 @@
     margin-top: 0.25rem;
     font-size: 0.7rem;
 }
-.xx{
+.Symbol{
     width: 0.7rem;
     height: 0.7rem;
     float: right;
@@ -43,12 +43,6 @@
     font-size: 0.63rem;
     margin-right: 0.4rem;
     margin-top: 0.4rem;
-}
-.yy{
-    width:100%;
-    height: 0.3rem;
-    float: left;
-    background-color:#efefef;
 }
 .name{
     width:100%;
@@ -66,7 +60,7 @@
     font-size: 0.5rem;
     margin-right: 6.5rem;
 }
-.dz{
+.addre{
     width:100%;
     height: 1.2rem;
     float: left;
@@ -76,7 +70,7 @@
     text-indent: 0.5rem;
     border-bottom:1px solid #e0e0e0;
 }
-.bj{
+.edit{
     width:100%;
     height: 1.5rem;
     float: left;
@@ -91,7 +85,7 @@
      border-radius: 50%;
      border: 1px solid #707070;
  }
-.mr{
+.add{
     width:4rem;
     height: 1.5rem;
     line-height: 1.5rem;
@@ -99,14 +93,14 @@
     font-size: 0.55rem;
     margin-left: 0.3rem;
 }
-.sc{
+.delete{
     width:2rem;
     height: 1.5rem;
     line-height: 1.5rem;
     float: right;
     font-size: 0.55rem;
 }
-.sct{
+.deleteimg{
     width:0.6rem;
     height: 0.8rem;
     float: right;
@@ -121,4 +115,54 @@
     margin-top: 0.35rem;
     margin-right: 0.2rem;
     font-size: 0.55rem;
+}
+
+.names{
+    width: 100%;
+    height:1.8rem;
+    float: left;
+    font-size: 0.61rem;
+    line-height: 1.8rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.namees{
+    width:3rem;
+    height:1.8rem;
+    float: left;
+    text-indent: 0.2rem;
+    line-height: 1.8rem;
+}
+.namey{
+    width:11rem;
+    height:1.8rem;
+    float: left;
+    font-size: 0.6rem;
+    line-height: 1.8rem;
+    border: 0;
+}
+.nameyx{
+    width:10rem;
+    height:1.8rem;
+    float: left;
+    font-size: 0.6rem;
+    line-height: 1.8rem;
+    border: 0;
+}
+.xyb{
+    width:0.35rem;
+    height:0.6rem;
+    float: left;
+    margin-top: 0.6rem;
+}
+.nameesy{
+    width:1rem;
+    height:0.6rem;
+    float: right;
+    margin-top: 0.6rem;
+    margin-right: 0.5rem;
+}
+
+input:focus {
+    outline:none;
 }

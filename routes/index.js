@@ -11,10 +11,6 @@ router.get('/seek', function(req, res, next) {
   res.render('seek');
 });
 
-//分类
-router.get('/classify', function(req, res, next) {
-  res.render('classify');
-});
 
 //搜索商品页面1
 router.get('/seek1', function(req, res, next) {
@@ -47,10 +43,6 @@ router.get('/collect', function(req, res, next) {
 });
 
 
-
-
-
-
 //待付款
 router.get('/waitingPaying', function(req, res, next) {
   res.render('waitingPaying');
@@ -76,11 +68,6 @@ router.get('/commodityIndent', function(req, res, next) {
   res.render('commodityIndent');
 });
 
-//地址
-router.get('/address', function(req, res, next) {
-  res.render('address');
-});
-
 //个人资料
 router.get('/privateData', function(req, res, next) {
   res.render('privateData');
@@ -95,5 +82,37 @@ router.get('/memberCenter', function(req, res, next) {
 router.get('/news', function(req, res, next) {
   res.render('news');
 });
+
+//修改昵称
+router.get('/modifyName', function(req, res, next) {
+  res.render('modifyName');
+});
+
+//修改性别
+router.get('/modifyGender', function(req, res, next) {
+  res.render('modifyGender');
+});
+
+//地址
+router.get('/address', function(req, res, next) {
+  res.render('address');
+});
+
+//新增地址
+router.get('/addAddress', function(req, res, next) {
+  res.render('addAddress');
+});
+
+//编辑地址
+router.get('/editAddress', function(req, res, next) {
+  res.render('editAddress');
+});
+
+//选择地址
+router.get('/choiceAddress', function(req, res, next) {
+  res.render('choiceAddress');
+});
+
+
 
 module.exports = router;
