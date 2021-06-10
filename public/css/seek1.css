@@ -104,6 +104,7 @@
     margin-top: 1rem;
     font-size: 0.6rem;
     float: left;
+    overflow: hidden;
 }
 
 .tu3{
@@ -113,6 +114,7 @@
     color:#ff0000;
     font-size: 0.55rem;
     line-height: 0.8rem;
+    overflow: hidden;
 }
 .di{
     width: 14rem;

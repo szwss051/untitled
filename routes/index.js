@@ -42,7 +42,6 @@ router.get('/collect', function(req, res, next) {
   res.render('collect');
 });
 
-
 //待付款
 router.get('/waitingPaying', function(req, res, next) {
   res.render('waitingPaying');
@@ -113,6 +112,9 @@ router.get('/choiceAddress', function(req, res, next) {
   res.render('choiceAddress');
 });
 
-
+//分类
+router.get('/classify', function(req, res, next) {
+  res.render('classify');
+});
 
 module.exports = router;
